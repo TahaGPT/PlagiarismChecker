@@ -1,4 +1,0 @@
-Stop Words: they in street the while
-2
-document3.txt
-document4.txt

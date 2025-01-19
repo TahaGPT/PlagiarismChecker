@@ -1,6 +1,0 @@
-Stop Words: in the she vowels
-4
-document1.txt
-document2.txt
-document3.txt
-document4.txt
