@@ -1,0 +1,4 @@
+Stop Words: remove these Words
+2
+document1.txt
+document2.txt
